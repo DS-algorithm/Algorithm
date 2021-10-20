@@ -22,3 +22,6 @@ after = [x for x, y in enumerate(before) if x > a and y==True]
 
 for i in after:
     print(i)
+
+
+# 백준은 80% 정도 돌리다가 틀렸다고 하는데... 뭐에서 틀려먹는지 이유를 모름
